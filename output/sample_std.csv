@@ -1,0 +1,4 @@
+record_id,date,description,address,contractor_owner,valuation,fees,valuation_currency,fees_currency,classification
+101,2025-01-10,New apartment block,123 Main St,ABC Builders,500000,2000,USD,USD,Residential
+102,2025-01-12,Retail shop project,45 Industrial Rd,XYZ Ltd,750000,3500,EUR,EUR,Commercial
+103,2025-01-15,Unknown building,78 Broad Ave,LMN Group,1000000,500,USD,USD,Unknown

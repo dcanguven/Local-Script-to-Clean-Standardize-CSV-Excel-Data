@@ -1,0 +1,42 @@
+{
+  "search_fields": ["description", "address", "contractor_owner"],
+  "priority": ["commercial", "residential"],
+  "rules": {
+    "residential": [
+      "residential","single family","sfh","apartment","apartments","apt","condo","condominium",
+      "townhouse","town home","duplex","triplex","quadplex","fourplex","multi-family","multifamily",
+      "subdivision","subdivision lot","lot","parcel","home","house","dwelling","unit","units",
+      "residence","flat","flats","villa","bungalow","cottage","rowhouse","row house","terrace house",
+      "mobile home","manufactured home","modular home","adu","granny flat","in-law unit",
+      "garage","carport","driveway","basement","attic","roof","re-roof","reroof","patio","deck",
+      "fence","shed","pool","swimming pool","spa","hot tub","landscaping","yard","garden","lawn",
+      "single-family","two-family","three-family","4-plex","5-plex","mixed residential","residence hall",
+      "student housing","dorm","dormitory","boarding house","hostel","camp ground","rv park",
+      "trailer park","timeshare","vacation rental","airbnb","holiday home","senior housing",
+      "assisted living","retirement home","nursing home","orphanage","children home","shelter",
+      "social housing","public housing","low-income housing","affordable housing"
+    ],
+    "commercial": [
+      "commercial","mixed-use","mixed use","office","office park","corporate","hq","headquarters",
+      "retail","store","stores","shop","shopping center","shopping centre","strip mall","mall","plaza",
+      "showroom","supermarket","grocery","big box","department store","pharmacy","drugstore",
+      "restaurant","cafe","coffee shop","bar","pub","bakery","deli","fast food","drive-thru","drive thru",
+      "hotel","motel","resort","hostel","conference hotel","convention center","event center","banquet",
+      "warehouse","distribution","logistics","fulfillment","industrial","light industrial","factory",
+      "plant","workshop","manufacturing","assembly","r&d","research","lab","laboratory","biotech","clean room",
+      "data center","server room","colocation","telecom","broadcast","studio","film set","production house",
+      "clinic","hospital","medical office","dental","urgent care","ambulatory","pharmacy","rehab center",
+      "school","university","college","campus","library","training center","daycare","childcare","tutoring center",
+      "bank","branch","atm","financial","credit union","insurance office","real estate office","brokerage",
+      "gas station","service station","car wash","auto repair","dealership","showroom","truck stop",
+      "stadium","arena","theater","cinema","auditorium","museum","gallery","exhibition hall","convention hall",
+      "cold storage","refrigerated","freezer","food processing","slaughterhouse","brewery","winery","distillery",
+      "coworking","flex space","business park","business center","call center","contact center",
+      "police station","fire station","government building","courthouse","city hall","embassy","consulate",
+      "airport","airfield","hangar","runway","harbor","port","dock","shipyard","marina","terminal","station",
+      "train station","bus station","subway station","metro station","tram depot",
+      "power plant","solar farm","wind farm","hydro plant","nuclear plant","utility","substation","sewage plant",
+      "parking","parking garage","multi-storey car park","underground parking","toll booth","toll plaza"
+    ]
+  }
+}
